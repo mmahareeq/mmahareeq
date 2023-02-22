@@ -1,5 +1,17 @@
-### Hi there 👋
+### Hi 👋, I'm Mariam.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### I'm Software Engineering
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### :woman: About Me: 
+- :email: How to reach me: (mariammahareeq0@gmail.com)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### :bulb:  Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,nodejs,mongodb,git)](https://skillicons.dev)
 <!--
 **mmahareeq/mmahareeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
