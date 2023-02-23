@@ -5,6 +5,7 @@
 <hr/>
 
 ### :woman: About Me: 
+- I'm constantly learning new skills and striving for progress
 - :email: How to reach me: (mariammahareeq0@gmail.com)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
