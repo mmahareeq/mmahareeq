@@ -1,7 +1,7 @@
 
-<h2 align="center">Hi 👋, I'm Mariam.</h2>
+<h2 align="left">Hi 👋, I'm Mariam.</h2>
 
-<h3 align="center"> I'm Software Engineering.</h3>
+<h3 align="left"> I'm Software Engineering.</h3>
 <hr/>
 
 ### :woman: About Me: 
